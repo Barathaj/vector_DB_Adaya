@@ -55,6 +55,9 @@ The project involves the following tasks:
 - ***Robust Ecosystem:***
    Django has a vast ecosystem of libraries and packages, making it easy to integrate additional functionality into the application.
 
+  
+![Screenshot 2024-05-08 191606](https://github.com/Barathaj/vector_DB_Adaya/assets/130913642/4dd6ebf2-69f3-4021-9b55-0e19b1f76bd0)
+
 **Conclusion:**
 The Vector Database Search Tool is a powerful solution for efficiently storing and retrieving high-dimensional data. By leveraging technologies like Pinecone for vector storage and Django for web development, the tool offers fast and scalable search capabilities with a user-friendly interface. With its ability to retrieve the most similar product names based on user queries, the tool facilitates efficient data exploration and decision-making.
 
