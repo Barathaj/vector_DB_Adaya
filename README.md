@@ -18,6 +18,9 @@ The project involves the following tasks:
 
 
 ## Technology Stack :
+
+![Screenshot 2024-05-08 190552](https://github.com/Barathaj/vector_DB_Adaya/assets/130913642/48825f66-84b4-456c-bf2f-a3eb0cd96e5d)
+
 - ***Vectorization:***
   TDFVectorizer with 512 dimensions or Sentence-transformers with 768 dimensions.
 - ***Vector Database:***
