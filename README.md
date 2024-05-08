@@ -15,7 +15,15 @@ The project involves the following tasks:
 
 # Demo Video :
 
+
 # Youtube Link :  https://youtu.be/8PqlO8kuh_Y
+
+https://github.com/Barathaj/vector_DB_Adaya/assets/130913642/1b6c93a5-79d6-410c-813d-5da0f0ecee07
+
+
+
+
+
 
 ## Technology Stack :
 
