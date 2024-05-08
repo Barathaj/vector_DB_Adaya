@@ -1,0 +1,69 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Vector DB </title>
+
+        </head>
+        <link rel="stylesheet" type="text/css" href="{% static 'main.css' %}">
+
+    <body>
+      <form action="" method="post">
+        {% csrf_token %}
+        
+        <div class="container">
+
+            <h1 class="mint">Vector Database Search Tool</h1>
+            <br>
+            <div class="input-group">
+              <label class="input-group__label" for="myInput">Enter the Query</label>
+              <input type="text" id="myInput" name='query' class="input-group__input" value="This is my input" />
+              
+            <div>
+                <button type="submit" class="submit-button">Submit</button>
+<br>
+<br>
+            <div class='grid-container'>
+                
+                {% for product, mrp, desc in product_details %}
+                <div class="box effect5">
+                    <div class="details">
+                        <p><strong>Product Name:</strong> {{ product }}</p>
+                        <p class="mrp"><strong>MRP:</strong> {{ mrp }}</p>
+                        <p><strong>Short Description:</strong> {{ desc }}</p>
+                    </div>
+                </div>
+            {% endfor %}
+
+                  
+                  
+                </div>
+                  
+                  
+          </div>
+        </div>
+    </div>
+  </form >
+
+
+
+
+
+
+
+          <script>
+            
+            var inputElement = document.getElementById('myInput');
+        
+           
+            inputElement.addEventListener('focus', function() {
+               
+                if (this.value === this.defaultValue) {
+                    this.value = '';
+                }
+            });
+        </script>
+    </body>
+
+</html>
