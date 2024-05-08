@@ -1,6 +1,6 @@
 # Vector Database Search Tool -  Adaya.ai
 
-**Objective :**
+## Objective :
 
 The Vector Database Search Tool is designed to efficiently store and retrieve high-dimensional data, such as image embeddings or word vectors. The primary objective of this tool is to create a basic search tool that enables users to input a product name and retrieve the most similar product names along with their details from the database.
 
@@ -17,7 +17,7 @@ The project involves the following tasks:
 
 
 
-**Technology Stack**:
+## Technology Stack :
 - ***Vectorization:***
   TDFVectorizer with 512 dimensions or Sentence-transformers with 768 dimensions.
 - ***Vector Database:***
