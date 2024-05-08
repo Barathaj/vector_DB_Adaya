@@ -1,4 +1,4 @@
-#Vector Database Search Tool -  Adaya.ai
+# Vector Database Search Tool -  Adaya.ai
 
 **Objective :**
 
@@ -13,7 +13,7 @@ The project involves the following tasks:
 4. Creating a user interface where users can input a product name query and retrieve the top 10 most similar product names and their details.
 5. Documenting the procedure, including the methodology used, and presenting the results obtained.
 
-   **Demo Video :**
+# Demo Video :
 
 
 
@@ -26,7 +26,7 @@ The project involves the following tasks:
   Django for developing the user interface and handling backend operations.
 
 
-#**Work Flow**
+# Work Flow 
 
 
 
@@ -40,7 +40,7 @@ The project involves the following tasks:
 - ***Built-in Similarity Search:***
    Pinecone offers built-in similarity search functionality, simplifying the implementation of search operations.
 
-  **Pinecone vector DataBase cloud Storage**
+  # Pinecone vector DataBase cloud Storage
   
   ![image](https://github.com/Barathaj/vector_DB_Adaya/assets/130913642/b8faa9c8-f960-4492-8164-9429237d229e)
 
